@@ -1,4 +1,4 @@
-public class partA {
+public class counting {
     public static void main(String[] args) {
 
         System.out.println("Task 1");
